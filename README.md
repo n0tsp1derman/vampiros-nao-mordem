@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido em um desafio da Apple Developer Academy PUCPR, pa
 
 ---
 
-## Vampires don't bite (they go to college
+## Vampires don't bite (they go to college)
 "Vampiros não mordem (eles fazem faculdade)" (translation: Vampires don't bite (they go to college) is an interactive visual novel where you can follow the day-to-day life of Yasmin, a common uni student that definitely ISN'T a vampire in disguise. But if, hipotetically, she were one, her only problem wouldn' be her fear of the sun or inability to use silver: but the chaos of her schedule even for an immortal being. 
 
 There are so many things to do in so little time! And pretending not to have 400 years old is kinda complicated... help Yasmin to choose what she's going to do in her day, and know her a little bit better while time passes.
